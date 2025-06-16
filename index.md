@@ -2,12 +2,12 @@
 
 [![签到状态](https://github.com/xzlvy/189pan/actions/workflows/main.yml/badge.svg)](https://github.com/xzlvy/189pan/actions/workflows/main.yml) [![项目主页](https://img.shields.io/badge/GitHub-项目主页-blue?logo=github)](https://github.com/xzlvy/189pan)
 
-**最后更新:** 2025-06-15 21:43:11 CST
+**最后更新:** 2025-06-16 11:10:38 CST
 
 ## 快速导航
 
 - 🔄 [查看Action运行记录](https://github.com/xzlvy/189pan/actions)
-- 📋 [查看最新运行](https://github.com/xzlvy/189pan/actions/runs/15663829275)
+- 📋 [查看最新运行](https://github.com/xzlvy/189pan/actions/runs/15670897805)
 - 🏠 [返回项目主页](https://github.com/xzlvy/189pan)
 - ⚙️ [手动触发签到](https://github.com/xzlvy/189pan/actions/workflows/main.yml)
 
@@ -16,22 +16,21 @@
 # 天翼云盘自动签到抽奖程序
 
 ## 执行概览
-- **启动时间**: 2025-06-15 21:43:11
+- **启动时间**: 2025-06-16 11:10:38
 - **账户数量**: 1 个
 
 ## 账户1
-第1次抽奖出错: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 ### 执行结果
 - **登录状态**: 登录成功
-- **签到结果**: 已签到，获得62M空间
+- **签到结果**: 签到成功，获得86M空间
 - **抽奖结果**:
-  - ❌ 第1次: 抽奖出错: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+  - 🎉 第1次: 抽奖成功，获得天翼云盘50M空间
   - ❌ 第2次: 抽奖失败，次数不足
   - ❌ 第3次: 抽奖失败，次数不足
 
 ---
 ## 执行统计
-- **结束时间**: 2025-06-15 21:43:33
-- **运行时长**: 22.38 秒
+- **结束时间**: 2025-06-16 11:10:55
+- **运行时长**: 16.64 秒
 
 ✅ **所有账户处理完成！**
